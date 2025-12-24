@@ -13,9 +13,6 @@
   <img src="image.gif" alt="D.Z.E.L" width="200"/>
 </p>
 
-
-<h3 align="center"><code>Celal Selim Binay aka Dzelal Selim Sokolovic</code></h3>
-
 <p align="center">
   <em>"Code is my language. Time is my playground. Brutalism is my design."</em>
 </p>
