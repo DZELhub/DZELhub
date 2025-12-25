@@ -103,16 +103,16 @@
 
 <h3 align="center">📊 SYSTEM MONITORING</h3>
 
-![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=Celal-Dzelal&theme=dark&hide_border=true&bg_color=0d1117&line=bc1fd1&point=5c1666&radius=22&from=1&height=300&custom_title=Celal-Dzelal-contributions)
+![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=DZELhub&theme=dark&hide_border=true&bg_color=0d1117&line=bc1fd1&point=5c1666&radius=22&from=1&height=300&custom_title=DZELhub-contributions)
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Celal-Dzelal&theme=dark&show_icons=true&count_private=true&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
-      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=Celal-Dzelal&theme=dark&ring=bc1fd1&fire=bc1fd1&sideNums=bc1fd1&sideLabels=bc1fd1" width="90%">
+      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=DZELhub&theme=dark&show_icons=true&count_private=true&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
+      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=DZELhub&theme=dark&ring=bc1fd1&fire=bc1fd1&sideNums=bc1fd1&sideLabels=bc1fd1" width="90%">
     </td>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Celal-Dzelal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
+      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=DZELhub&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
     </td>
   </tr>
 </table>
