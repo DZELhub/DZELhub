@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Celal-Dzelal.Celal-Dzelal&color=0d1117&labelColor=bc1fd1">
-  <a href="https://www.linkedin.com/in/celalselimbinay/">
+  <a href="https://www.linkedin.com/in/dzelalbinay/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
