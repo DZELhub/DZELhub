@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/-PHP-17202C?logo=php&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
       <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=black&style=flat" />
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
     </td>
     <td align="center">
       <h4>Frontend Frameworks & Libraries</h4>
