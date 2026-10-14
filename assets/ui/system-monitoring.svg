@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" role="img" aria-labelledby="title desc">
+  <title id="title">System monitoring header</title>
+  <desc id="desc">A restrained telemetry console header with active node indicator.</desc>
+  <defs>
+    <linearGradient id="rail" x1="0" x2="1">
+      <stop stop-color="#8BD9E6" stop-opacity=".08"/>
+      <stop offset=".45" stop-color="#8BD9E6" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#8BD9E6" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 16h1200v58H0z" fill="#0D1117" fill-opacity=".94" stroke="#839399" stroke-opacity=".2"/>
+  <path d="M0 16h286m42 0h500m42 0h330M0 74h112m36 0h640m36 0h376" fill="none" stroke="url(#rail)"/>
+  <path d="M30 34v22m6-22v12m0 8v2" stroke="#8BD9E6" stroke-width="1.5"/>
+  <circle cx="30" cy="65" r="2.5" fill="#C94444"/>
+  <text x="58" y="43" fill="#C7D5D9" font-family="monospace" font-size="14" letter-spacing="2">TELEMETRY // DZ-01</text>
+  <text x="58" y="61" fill="#839399" font-family="monospace" font-size="10" letter-spacing="1.4">PUBLIC REPOSITORY METRICS</text>
+  <text x="1165" y="48" fill="#839399" font-family="monospace" font-size="10" text-anchor="end" letter-spacing="1">LIVE CHANNELS</text>
+  <circle cx="1180" cy="44" r="3" fill="#8BD9E6"/>
+  <path d="M1081 56h84" stroke="#8BD9E6" stroke-opacity=".35"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" role="img" aria-labelledby="title desc">
+  <title id="title">Signal footer divider</title>
+  <desc id="desc">A thin cyan signal rail, a small red node and technical index marks.</desc>
+  <defs>
+    <linearGradient id="footer-line" x1="0" x2="1">
+      <stop stop-color="#8BD9E6" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#8BD9E6" stop-opacity=".3"/>
+      <stop offset=".5" stop-color="#8BD9E6" stop-opacity=".7"/>
+      <stop offset=".82" stop-color="#8BD9E6" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#8BD9E6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 35h1200" stroke="url(#footer-line)"/>
+  <path d="M180 35h218m28 0h120m132 0h104m26 0h212" stroke="#8BD9E6" stroke-opacity=".34"/>
+  <circle cx="426" cy="35" r="3" fill="#C94444"/>
+  <circle cx="678" cy="35" r="3" fill="#0D1117" stroke="#8BD9E6" stroke-width="1.4"/>
+  <path d="M180 27v16m8-16v9m8-9v16m816-16v16m8-16v9m8-9v16" stroke="#839399" stroke-opacity=".55"/>
+  <text x="160" y="19" fill="#839399" font-family="monospace" font-size="8" text-anchor="end" letter-spacing="1">END OF TRANSMISSION</text>
+  <text x="1040" y="19" fill="#839399" font-family="monospace" font-size="8" letter-spacing="1">INDEX // 001</text>
+</svg>

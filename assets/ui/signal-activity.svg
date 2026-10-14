@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">D.Z.E.L. signal activity</title>
+  <desc id="desc">Telemetry channel temporarily offline. Local node status is active.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop stop-color="#8BD9E6" stop-opacity=".05"/>
+      <stop offset=".5" stop-color="#8BD9E6" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#8BD9E6" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <path d="M1 12h1198v126H1z" fill="#0D1117" stroke="#839399" stroke-opacity=".25"/>
+  <path d="M1 12h220m32 0h620m32 0h295M1 138h194m35 0h720m35 0h195" fill="none" stroke="url(#fade)"/>
+  <path d="M30 34v80m0 0h18m18 0h40m18 0h18" fill="none" stroke="#8BD9E6" stroke-opacity=".58"/>
+  <path d="M48 109l8 8 10-8" fill="none" stroke="#8BD9E6" stroke-opacity=".58"/>
+  <circle cx="48" cy="114" r="2" fill="#C94444"/>
+  <text x="171" y="48" fill="#C7D5D9" font-family="monospace" font-size="13" letter-spacing="2">D.Z.E.L. SIGNAL ACTIVITY</text>
+  <text x="171" y="76" fill="#839399" font-family="monospace" font-size="11" letter-spacing="1.4">TELEMETRY CHANNEL</text>
+  <text x="171" y="96" fill="#839399" font-family="monospace" font-size="11" letter-spacing="1.4">TEMPORARILY OFFLINE</text>
+  <path d="M171 111h186" stroke="#8BD9E6" stroke-opacity=".42"/>
+  <text x="171" y="128" fill="#8BD9E6" font-family="monospace" font-size="10" letter-spacing="1.2">LOCAL NODE STATUS // ACTIVE</text>
+  <path d="M748 82h36l9-11 14 22 14-18 12 7h84" fill="none" stroke="#839399" stroke-opacity=".32" stroke-width="1.2"/>
+  <path d="M941 82h45m22 0h43m20 0h95" fill="none" stroke="#8BD9E6" stroke-opacity=".25" stroke-dasharray="2 7"/>
+  <circle cx="1008" cy="82" r="2.5" fill="#C94444"/>
+  <path d="M1138 53v57m7-57v35m7-35v57m7-57v22" stroke="#839399" stroke-opacity=".32"/>
+  <text x="1140" y="128" fill="#839399" font-family="monospace" font-size="8" text-anchor="end" letter-spacing="1">CH-00</text>
+</svg>

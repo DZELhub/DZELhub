@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Active signal domains</title>
+  <desc id="desc">Three linked nodes represent software, game development and research.</desc>
+  <defs>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#8BD9E6" stop-opacity=".16"/>
+      <stop offset=".5" stop-color="#8BD9E6" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#8BD9E6" stop-opacity=".16"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M120 56h960" stroke="url(#signal)" stroke-width="1.4"/>
+  <path d="M120 56h265m30 0h330m30 0h305" stroke="#8BD9E6" stroke-opacity=".42"/>
+  <path d="M400 56l9-7h20m342 0h20l9 7" fill="none" stroke="#8BD9E6" stroke-opacity=".5"/>
+  <circle cx="120" cy="56" r="7" fill="#0D1117" stroke="#8BD9E6" stroke-width="2" filter="url(#soft-glow)"/>
+  <circle cx="600" cy="56" r="7" fill="#0D1117" stroke="#8BD9E6" stroke-width="2" filter="url(#soft-glow)"/>
+  <circle cx="1080" cy="56" r="7" fill="#0D1117" stroke="#8BD9E6" stroke-width="2" filter="url(#soft-glow)"/>
+  <circle cx="400" cy="56" r="2.5" fill="#C94444"/>
+  <circle cx="800" cy="56" r="2.5" fill="#839399"/>
+  <text x="120" y="31" fill="#C7D5D9" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="1.5">01 // SOFTWARE</text>
+  <text x="600" y="31" fill="#C7D5D9" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="1.5">02 // GAME DEV</text>
+  <text x="1080" y="31" fill="#C7D5D9" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="1.5">03 // RESEARCH</text>
+  <text x="120" y="91" fill="#839399" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="1">WEB SYSTEMS</text>
+  <text x="600" y="91" fill="#839399" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="1">INTERACTIVE WORLDS</text>
+  <text x="1080" y="91" fill="#839399" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="1">DIGITAL INQUIRY</text>
+</svg>

@@ -1,32 +1,54 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DZELhub.DZELhub&color=0d1117&labelColor=bc1fd1">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DZELhub.DZELhub&color=0D1117&labelColor=8BD9E6" alt="Profile visitors">
   <a href="https://www.linkedin.com/in/dzelalbinay/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=F700FF&vCenter=true&center=true&width=600&lines=🟣+SYSTEM+BOOTING+UP...;🟢+WELCOME+TO+D.Z.E.L.;🔷+LOADING+NEO-RETRO+PORTAL...;⚡+INITIATING+TIME+LOOP+SEQUENCE+%E2%9C%94" alt="Typing SVG">
-</h1>
-
 <p align="center">
-  <img src="image.gif" alt="D.Z.E.L" width="200"/>
+  <img
+    src="assets/dzel-block.gif"
+    alt="D.Z.E.L. Signal Block"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <em>"Code is my language. Time is my playground. Brutalism is my design."</em>
+  <strong>D.Z.E.L.</strong><br>
+  <sub>DIGITAL ZERO ENTITY LOGIC</sub><br>
+  SOFTWARE // GAMES // SYSTEMS // RESEARCH<br>
+  <em>Building systems.<br>Creating worlds.<br>Leaving a signal.</em>
 </p>
 
-<h3 align="center"> 👁️ SYSTEM OVERRIDE: IDENTITY LOGGED </h3>
 <p align="center">
-  🚀 <b>Fullstack Developer in progress</b><br>
-  🧠 <b>Obsessed with clean code, scalable systems & glitchy aesthetics</b><br>
-  🕶️ <b>Neo-wanderer crafting brutal, bold and future-proof webscapes</b>
+  <img src="assets/ui/identity-divider.svg" alt="D.Z.E.L. identity signal divider, node DZ-01, signal stable" width="100%">
 </p>
 
 <hr/>
 
-<h3 align="center">⚡️ TECH TOOLSET</h3>
+<h3 align="center">SYSTEM // IDENTITY</h3>
+
+<p align="center">
+  <img src="assets/ui/system-identity.svg" alt="D.Z.E.L. system identity interface panel" width="100%">
+</p>
+
+<p align="center">
+  <strong>Full-Stack Developer // Game Developer // Academic Researcher</strong><br>
+  Building structured digital systems, interactive worlds and research-driven ideas<br>
+  under the D.Z.E.L. identity.
+</p>
+
+<p align="center">
+  <sub>NEO-RETRO DYSTOPIA</sub> &nbsp; // &nbsp;
+  <sub>MODERN BRUTALISM</sub> &nbsp; // &nbsp;
+  <sub>HACKER AESTHETICS</sub><br>
+  <sub>INDUSTRIAL MINIMALISM</sub> &nbsp; // &nbsp;
+  <sub>CINEMATIC DIGITAL ATMOSPHERE</sub>
+</p>
+
+<hr/>
+
+<h3 align="center">TECH TOOLSET</h3>
 
 <table align="center">
   <tr>
@@ -93,27 +115,45 @@
 
 <hr/>
 
-<h3 align="center">👾 COLLECTIVE INTEL: CodEdu</h3>
+<h3 align="center">// ACTIVE SIGNALS</h3>
+
 <p align="center">
-  <em><b>We code. We educate. We evolve.</b></em><br>
-  Building an open-source, brutalist learning loop for devs of the future.<br>
-  <strong>Enter the simulation. Break the limits. Repeat the loop.</strong>
+  <img src="assets/ui/active-signals.svg" alt="Connected SOFTWARE, GAME DEV and RESEARCH signal nodes" width="100%">
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong><sub>SOFTWARE</sub></strong></td>
+    <td align="center"><strong><sub>GAME DEV</sub></strong></td>
+    <td align="center"><strong><sub>RESEARCH</sub></strong></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Full-Stack Systems<br>Web Applications</sub></td>
+    <td align="center"><sub>Unity<br>C#</sub></td>
+    <td align="center"><sub>Academic Work<br>Digital Research</sub></td>
+  </tr>
+</table>
 
 <hr/>
 
-<h3 align="center">📊 SYSTEM MONITORING</h3>
+<h3 align="center">SYSTEM MONITORING</h3>
 
-![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=DZELhub&theme=dark&hide_border=true&bg_color=0d1117&line=bc1fd1&point=5c1666&radius=22&from=1&height=300&custom_title=DZELhub-contributions)
+<p align="center">
+  <img src="assets/ui/system-monitoring.svg" alt="System monitoring interface header" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/ui/signal-activity.svg" alt="D.Z.E.L. signal activity monitor, telemetry temporarily offline, local node active" width="100%">
+</p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=DZELhub&theme=dark&show_icons=true&count_private=true&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
-      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=DZELhub&theme=dark&ring=bc1fd1&fire=bc1fd1&sideNums=bc1fd1&sideLabels=bc1fd1" width="90%">
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=DZELhub&amp;theme=dark&amp;show_icons=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=8BD9E6&amp;text_color=C7D5D9&amp;icon_color=8BD9E6&amp;hide_border=true" alt="GitHub statistics" width="90%">
+      <img src="https://github-readme-streak-stats-five-roan.vercel.app/?user=DZELhub&amp;theme=dark&amp;background=0D1117&amp;ring=8BD9E6&amp;fire=C94444&amp;currStreakLabel=839399&amp;sideNums=C7D5D9&amp;sideLabels=839399&amp;dates=839399&amp;border=0D1117" alt="GitHub contribution streak" width="90%">
     </td>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=DZELhub&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&text_color=bc1fd1&icon_color=bc1fd1" width="90%">
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=DZELhub&amp;theme=dark&amp;hide_border=true&amp;no-bg=true&amp;no-frame=true&amp;langs_count=4&amp;bg_color=0D1117&amp;title_color=8BD9E6&amp;text_color=C7D5D9" alt="Top programming languages" width="90%">
     </td>
   </tr>
 </table>
@@ -121,6 +161,13 @@
 <hr/>
 
 <p align="center">
-  ⛓ <i>This README is a D.Z.E.L. system file. Unauthorized replication may result in a timeline disturbance.</i><br>
-  ✉️ Contact: <a href="mailto:binaycelalselim@gmail.com">binaycelalselim@gmail.com</a>
+  <img src="assets/ui/signal-footer.svg" alt="Decorative signal line with node indicator and technical index marks" width="100%">
+</p>
+
+<p align="center">
+  <strong>SIGNAL STABLE // NODE ACTIVE</strong><br>
+  D.Z.E.L. system file.<br>
+  Observe the signal.<br>
+  Follow the anomaly.<br>
+  Contact: <a href="mailto:binaycelalselim@gmail.com">binaycelalselim@gmail.com</a>
 </p>

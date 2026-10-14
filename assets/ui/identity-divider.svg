@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" role="img" aria-labelledby="title desc">
+  <title id="title">Identity signal divider</title>
+  <desc id="desc">A restrained cyan system line with node and status marks.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#8BD9E6" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#8BD9E6" stop-opacity="0.48"/>
+      <stop offset="0.72" stop-color="#8BD9E6" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#8BD9E6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0 40h480m36 0h168m36 0h480" fill="none" stroke="url(#line)" stroke-width="1"/>
+  <path d="M480 40l12-8h24m168 0h24l12 8" fill="none" stroke="#8BD9E6" stroke-opacity=".42"/>
+  <circle cx="600" cy="40" r="4" fill="#0D1117" stroke="#8BD9E6" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="493" cy="32" r="2" fill="#C94444"/>
+  <text x="34" y="31" fill="#839399" font-family="monospace" font-size="10" letter-spacing="1">NODE // DZ-01</text>
+  <text x="1166" y="31" fill="#839399" font-family="monospace" font-size="10" text-anchor="end" letter-spacing="1">SIGNAL // STABLE</text>
+  <path d="M34 48v8m8-8v5m8-5v8m1108-8v8m8-8v5m8-5v8" stroke="#839399" stroke-opacity=".55"/>
+</svg>
